@@ -4,14 +4,14 @@
  - `vivo WATCH GT` 可以使用，但存在部分界面显示异常的问题
 ## 运行图片
 <div>
- <img src="/capture/home.png" width="200">
- <img src="/capture/intro1.png" width="200">
- <img src="/capture/intro2.png" width="200">
- <img src="/capture/intro3.png" width="200">
- <img src="/capture/reset.png" width="200">
- <img src="/capture/intro4.png" width="200">
- <img src="/capture/setting.png" width="200">
- <img src="/capture/intro5.png" width="200">
+ <img src="/capture/home.png" width="150">
+ <img src="/capture/intro1.png" width="150">
+ <img src="/capture/intro2.png" width="150">
+ <img src="/capture/intro3.png" width="150">
+ <img src="/capture/reset.png" width="150">
+ <img src="/capture/intro4.png" width="150">
+ <img src="/capture/setting.png" width="150">
+ <img src="/capture/intro5.png" width="150">
 </div>
 
 ## 使用说明
