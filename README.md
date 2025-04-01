@@ -13,6 +13,7 @@
  <img src="https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/setting.png" width="200">
  <img src="https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/intro5.png" width="200">
 </div>
+
 ## 使用说明
 ### 首页
  - **标题** `电子木鱼`
