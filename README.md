@@ -4,6 +4,13 @@
  - `vivo WATCH GT` 可以使用，但存在部分界面显示异常的问题
 ## 运行图片
 ![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/home.png)
+![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/intro1.png)
+![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/intro2.png)
+![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/intro3.png)
+![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/reset.png)
+![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/intro4.png)
+![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/setting.png)
+![Image text](https://github.com/Star7-Github/elecMuyu-BlueOS/blob/main/capture/intro5.png)
 ## 使用说明
 ### 首页
  - **标题** `电子木鱼`
